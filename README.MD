@@ -105,7 +105,7 @@ npm run dev
 ```
 
 ### Deployment
-- Deployable on Vercel or Netlify for easy access.
+- Deployed on vercel, Link - https://spread-sheets.vercel.app/
 
 ## Future Enhancements
 - **Advanced Formulas:** IF, VLOOKUP support.
